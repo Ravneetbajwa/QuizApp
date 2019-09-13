@@ -1,0 +1,44 @@
+
+
+
+html,
+body {
+
+    margin-top: 30px;
+   overflow-y : hidden;
+
+}
+
+#image1{
+    width: 100px;
+    margin:20px 20px 20px 0px;
+}
+
+h1 {
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+h3{
+    
+    font-style: italic;
+    color: #5B7C76;
+    font-weight: 600;
+    margin:20px 20px 20px 0px;
+}
+
+
+#signuplink a{
+    color: #5B7C76;
+    font-weight: 600;
+}
+
+#signuplink a:hover{
+    color: #22C65B;
+}
+#mainsection{
+    margin-top: 0;
+}
+
+
+
